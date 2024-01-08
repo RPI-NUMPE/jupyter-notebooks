@@ -7,11 +7,11 @@ the notebooks on your local system.
 All notebooks [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RPI-NUMPE/jupyter-notebooks/HEAD)
 
 ## Lecture 1
-1. Introduction to Jupyter [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RPI-NUMPE/jupyter-notebooks/HEAD?labpath=01-00-Introduction-to-This-Jupyter-Notebook.ipynb)
-2. Python operators [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RPI-NUMPE/jupyter-notebooks/HEAD?labpath=01-01-Python-A-Glorified-Calculator.ipynb)
-3. Variables and constants [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RPI-NUMPE/jupyter-notebooks/HEAD?labpath=01-02-When-Constants-Aren-Not-and-Variables-Will-Not.ipynb)
-4. Arrays [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RPI-NUMPE/jupyter-notebooks/HEAD?labpath=01-03-I-Am-Just-Wild-About-Array.ipynb)
-5. Strings [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RPI-NUMPE/jupyter-notebooks/HEAD?labpath=01-04-Strings-of-Pearls.ipynb)
+1. Introduction to Jupyter [01-00-Introduction-to-This-Jupyter-Notebook.ipynb](https://mybinder.org/v2/gh/RPI-NUMPE/jupyter-notebooks/HEAD?labpath=01-00-Introduction-to-This-Jupyter-Notebook.ipynb)
+2. Python operators [01-01-Python-A-Glorified-Calculator.ipynb](https://mybinder.org/v2/gh/RPI-NUMPE/jupyter-notebooks/HEAD?labpath=01-01-Python-A-Glorified-Calculator.ipynb)
+3. Variables and constants [01-02-When-Constants-Aren-Not-and-Variables-Will-Not.ipynb)](https://mybinder.org/v2/gh/RPI-NUMPE/jupyter-notebooks/HEAD?labpath=01-02-When-Constants-Aren-Not-and-Variables-Will-Not.ipynb)
+4. Arrays [01-03-I-Am-Just-Wild-About-Array.ipynb](https://mybinder.org/v2/gh/RPI-NUMPE/jupyter-notebooks/HEAD?labpath=01-03-I-Am-Just-Wild-About-Array.ipynb)
+5. Strings [01-04-Strings-of-Pearls.ipynb](https://mybinder.org/v2/gh/RPI-NUMPE/jupyter-notebooks/HEAD?labpath=01-04-Strings-of-Pearls.ipynb)
 
 
 1. [](https://mybinder.org/v2/gh/RPI-NUMPE/jupyter-notebooks/HEAD?labpath=)
